@@ -205,7 +205,7 @@
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                info@thelahoritaste.com
                 </span>
               </a>
             </div>
